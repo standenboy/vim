@@ -42,12 +42,6 @@ set showcmd
 " Use highlighting when doing a search.
 set hlsearch
 
-" Enable auto completion menu after pressing TAB.
-set wildmenu
-
-" Make wildmenu behave like similar to Bash completion.
-set wildmode=list:longest
-
 " Scrolling
 
 :set scrolloff=999
