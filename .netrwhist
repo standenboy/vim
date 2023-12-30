@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/standenboy'
+let g:netrw_dirhist_7='/home/standenboy/projects'
+let g:netrw_dirhist_6='/home/standenboy/projects/d/src'
+let g:netrw_dirhist_5='/home/standenboy/projects/ide'
+let g:netrw_dirhist_4='/home/standenboy/Downloads'
+let g:netrw_dirhist_3='/home/standenboy/projects/d/src'
+let g:netrw_dirhist_2='/home/standenboy/projects/d'
+let g:netrw_dirhist_1='/home/standenboy/projects/d/src'
