@@ -1,6 +1,7 @@
 " PLUGINS
 
 call plug#begin('~/.vim/plugged')
+	Plug 'dense-analysis/ale'
 	Plug 'preservim/nerdtree'
 	Plug 'arcticicestudio/nord-vim'
 call plug#end()
@@ -44,7 +45,7 @@ set hlsearch
 
 " Scrolling
 
-:set scrolloff=999
+set scrolloff=999
 
 " Colors
 colorscheme nord
